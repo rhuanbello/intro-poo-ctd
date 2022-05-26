@@ -9,8 +9,8 @@ public class UsuarioJogo {
   public UsuarioJogo(String name, String nickName) {
     this.name = name;
     this.nickName = nickName;
-    this.score=0;
-    this.level=1;
+    this.score = 0;
+    this.level = 1;
   }
 
   public void increaseScore() {
